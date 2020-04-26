@@ -4,8 +4,8 @@ class GitRevLabel < Formula
 	desc 'Gives information about Git repository revision in format like \'master-c73-gbbb6bec\'. Can fill template string or file with env vars and information from Git. Useful to provide information about version of the program: branch, tag, commit hash, commits count, dirty status.'
 	homepage 'https://gitlab.com/kyb/git-rev-label'
 	url 'https://gitlab.com/kyb/git-rev-label/raw/artifacts/master/git-rev-label'
-	sha256 '39dbb2550671398195509e71431db933bbd5031c23ec9a39ac545158c8f3e5a7'
-	version '2.5.4'
+	sha256 '113dca38242ac23e98daf3041d025adef240e319a5f033a4405566566d4f0543'
+	version '2.6.5'
 	
 	#depends_on "git" => :recommended  ## Usually installed with developer tools.
 
