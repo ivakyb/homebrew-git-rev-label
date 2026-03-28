@@ -9,8 +9,8 @@ class GitRevLabel < Formula
        'program: branch, tag, commit hash, commits count, dirty status.'
   homepage 'https://gitlab.com/kyb/git-rev-label'
   url 'https://gitlab.com/kyb/git-rev-label/raw/artifacts/master/git-rev-label'
-  sha256 'e74e0fca14ab0396c3309eb108d094cf3d8041d75199dacb30a4d80b84301607'
-  version '2.34.58'
+  sha256 '6ff7ee3209b67aea733edc684995c50b27d49f783dc8cc8afc70c1f3fc3bface'
+  version '2.34.59'
 
   # depends_on "git" => :recommended  ## Usually installed with developer tools.
 
